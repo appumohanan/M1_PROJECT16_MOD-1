@@ -1,4 +1,4 @@
 #Certificates
--Sololearn
--NDG Linux
--First Day on Git
+.Sololearn
+.NDG Linux
+.First Day on Git
