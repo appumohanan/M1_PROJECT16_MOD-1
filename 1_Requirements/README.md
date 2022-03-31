@@ -19,6 +19,9 @@
  * To solve problems
  * User can input new  values and get output for it.
  
- ##SWOT Analysis
+ ## SWOT Analysis
+ 
+ 
+![4 Healthy Food For Kids](https://user-images.githubusercontent.com/80033796/161133710-31851734-10ef-43bb-9976-79398ef65c0e.jpg)
  
 
