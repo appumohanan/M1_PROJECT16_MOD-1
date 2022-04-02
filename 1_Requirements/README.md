@@ -23,5 +23,21 @@
  
  
 ![4 Healthy Food For Kids](https://user-images.githubusercontent.com/80033796/161133710-31851734-10ef-43bb-9976-79398ef65c0e.jpg)
+
+# 4 W's and 1'H
+
+## WHO:
+ This calculator can be used by all people for solving problems.
+
+## WHAT:
+  A scientific calculator is a calculator designed to help you calculate science, engineering, and mathematics problems.This program solves mathematical problem given by user 
+  
+## WHEN:
+  It is made as a mini project work in GITHUB.
+  
+## WHERE:
+ It is made using visual studio code and other IDEs.
  
+## HOW:
+  It used simple switch case to perform these calculations.
 
