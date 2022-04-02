@@ -55,7 +55,8 @@ int main()
     }
 
     printf("\n******************next calculation to undergo****************\n");
-  }while(1);
+  }
+  while(1);
 
   return 0;
 }
